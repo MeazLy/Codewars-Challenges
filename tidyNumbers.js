@@ -13,4 +13,4 @@ function tidyNumber(n){
     return true
 };
 
-tidyNumber(12354) // returns false
+tidyNumber(12354) // return false
