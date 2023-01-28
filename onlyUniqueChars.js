@@ -9,4 +9,4 @@ function hasUniqueChars(str){
     return unique.size === str.split("").length ? true : false
 };
 
-hasUniqueChars("qwerty") // returns true
+hasUniqueChars("qwerty") // true
