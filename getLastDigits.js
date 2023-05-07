@@ -15,4 +15,4 @@ function lastDigit(n, d) {
       }
 };
 
-lastDigit([1234], 2) // returns [3,4]
+lastDigit([1234], 2) // return [3,4]
